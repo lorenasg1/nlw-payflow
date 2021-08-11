@@ -1,16 +1,53 @@
-# payflow
 
-A new Flutter project.
+![PayFlow](https://github.com/lorenasg1/nlw-payflow/blob/main/assets/images/logofull.png?raw=true)
 
-## Getting Started
+Aplicativo desenvolvido para gerenciar boletos.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Login com Google
+- Adicionar boletos
+- Adicionar boleto por leitura de código de barras
+- Visualização boletos
+
+
+## Tech Stack
+
+- Flutter
+- Firebase Authentication
+
+
+
+## Run Locally
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/lorenasg1/nlw-payflow.git
+```
+
+Entre na pasta
+
+```bash
+  cd my-project
+```
+
+Instale as dependências
+
+```bash
+  flutter pub get
+```
+
+Start the server
+
+```bash
+  flutter run
+```
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
